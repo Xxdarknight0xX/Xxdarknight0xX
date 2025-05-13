@@ -37,6 +37,13 @@ Soy un desarrollador **Full Stack** apasionado por la tecnología, con experienc
 
 ---
 
+## 🌍 Idiomas
+
+- ![Inglés](https://img.shields.io/badge/Inglés-Intermedio%20Avanzado-007ACC?style=flat&logo=language&logoColor=white)
+- Español: Nativo
+
+---
+
 ## 📂 Proyectos destacados
 
 🔗 Mira todos mis proyectos en mi [GitHub](https://github.com/Xxdarknight0xX)  
@@ -51,8 +58,8 @@ Algunos repos incluyen:
 
 ## 📫 Contacto
 
-📧 Email: *Darknight16253@gmail.com*  
-💼 LinkedIn: *[tu-linkedin-aquí]* 
+📧 Email: *[tu-email-aquí]*  
+💼 LinkedIn: *[tu-linkedin-aquí]*  
 
 ---
 
