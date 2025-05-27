@@ -58,8 +58,8 @@ Algunos repos incluyen:
 
 ## 📫 Contacto
 
-📧 Email: *[tu-email-aquí]*  
-💼 LinkedIn: *[tu-linkedin-aquí]*  
+📧 Email: *darknight16253@gmail.com*  
+💼 LinkedIn: **  
 
 ---
 
